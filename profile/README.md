@@ -27,5 +27,3 @@
 Thank you for visiting the Toadfix GitHub profile! We look forward to embarking on exciting coding endeavors together.
 
 👨‍💻 Happy Coding!
-
--->
